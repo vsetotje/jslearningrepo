@@ -1,4 +1,5 @@
-// That here is the first faceless version I wrote, but it was a bit ahead of the course.
+// That here is the first faceless version I wrote, but it was a bit ahead of the course. All commented now. 
+// Everything else is part of the working project.
 
 
 //function getRandomIntInclusive(min, max) {
