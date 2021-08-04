@@ -1,4 +1,7 @@
-// function getRandomIntInclusive(min, max) {
+// That here is the first faceless version I wrote, but it was a bit ahead of the course.
+
+
+//function getRandomIntInclusive(min, max) {
 //     return Math.floor(Math.random() * (max - min + 1)) + min;
 //   }
 
