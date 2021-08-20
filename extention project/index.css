@@ -18,3 +18,9 @@ button {
     background-color: greenyellow;
     color: black;
 }
+li {
+    color: rgb(255, 0, 0);
+}
+a {
+    color: rgb(113, 121, 72);
+}
